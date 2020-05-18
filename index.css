@@ -1,23 +1,19 @@
-*{
-    box-sizing: border-box;
-    background-blend-mode: soft-light ;
-    background-color: whitesmoke;
-     
+* {
+  box-sizing: border-box;
+  background-color: whitesmoke;
 }
-ul{
-    list-style: none;
+ul {
+  list-style: none;
 }
-div{
-    text-align: center;
+div {
+  text-align: center;
 }
 p {
-    margin-top: 0;
-    display: inline;
+  margin-top: 0;
+  display: inline;
 }
-@media only screen and (max-width:740px){
-    img{
-        width: 100%;
-    }
-
-
+@media only screen and (max-width: 740px) {
+  img {
+    width: 100%;
+  }
 }
