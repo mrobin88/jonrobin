@@ -1,5 +1,11 @@
 *{
     box-sizing: border-box;
+    background-blend-mode: soft-light ;
+    background-color: whitesmoke;
+     
+}
+ul{
+    list-style: none;
 }
 div{
     text-align: center;
@@ -7,4 +13,11 @@ div{
 p {
     margin-top: 0;
     display: inline;
+}
+@media only screen and (max-width:740px){
+    img{
+        width: 100%;
+    }
+
+
 }
