@@ -1,3 +1,3 @@
 # Jon Robin
 
-##static Site for my lil bro  
+## Site for my lil bro  
